@@ -6,16 +6,16 @@
 #define m_view_render 0x408b8e8
 #define m_view_matrix 0x1b3bd0
 
-#define m_LocalPlayer 0x1c89a38  
-#define m_cl_entitylist 0x18da3d8
+#define m_LocalPlayer 0x1c89a78  
+#define m_cl_entitylist 0x18da3f8
 
 #define m_entity_origin 0x14c 
 #define m_entity_team_num 0x450
-#define m_entity_bones 0xF38
+#define m_entity_bones 0xf38
 #define m_player_shields 0x170
 #define m_player_health 0x440
 #define m_player_max_health 0x0510
-#define m_shieldHealth 0x0170 
+#define m_shieldHealth 0x174 
 #define m_shieldHealthMax 0x174
 #define m_player_bleedout_state 0x25e8
 
